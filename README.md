@@ -17,6 +17,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5202e5f9-c177-44e6-a7ef-79aef30d4ef2/deploy-status)](https://newspaper-article-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-newspaper-article&left_text=repo%20views)
 
 ## ℹ️ A Simple Newspaper Article Landing Page
 
