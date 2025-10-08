@@ -1,4 +1,4 @@
-# 💻 Newspaper Article
+# Newspaper Article
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,17 +19,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-newspaper-article&left_text=repo%20views)
 
-## ℹ️ A Simple Newspaper Article Landing Page
+## A Simple Newspaper Article Landing Page
 
 ![Screenshot of the project](./screenshot.png)
 
 This project replicates the classic layout and feel of a vintage newspaper article using only HTML and CSS. With careful attention to typography, spacing, and alignment, it mimics the columned, print-style presentation found in traditional publications.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The Newspaper Article project is a layout exercise that practices semantic HTML and advanced text formatting using CSS. It includes a simulated article layout with a title, date, subheading, byline, and several paragraphs of content.
 
@@ -37,7 +37,7 @@ This project emphasizes good use of margin, padding, text indenting, drop caps, 
 
 ---
 
-## ✨ Features
+## Features
 
 - Fully semantic HTML5 structure
 - Vintage newspaper theme layout
@@ -50,7 +50,7 @@ This project emphasizes good use of margin, padding, text indenting, drop caps, 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to simulate a newspaper layout using only HTML and CSS
 - Using `::first-letter` to create drop cap effects
@@ -61,7 +61,7 @@ This project emphasizes good use of margin, padding, text indenting, drop caps, 
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -71,23 +71,23 @@ This project emphasizes good use of margin, padding, text indenting, drop caps, 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://newspaper-article-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://newspaper-article-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
